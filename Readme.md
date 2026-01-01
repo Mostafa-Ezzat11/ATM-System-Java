@@ -68,13 +68,14 @@ ATM-System-Java/
 ```bash
 git clone https://github.com/YOUR_USERNAME/ATM-System-Java.git
 2️⃣ Open the project
-Open the project using:
 
-NetBeans
+- Open the project using:
 
-IntelliJ IDEA
+- NetBeans
 
-VS Code
+- IntelliJ IDEA
+
+- VS Code
 
 3️⃣ Run the program
 Run:
@@ -124,4 +125,5 @@ Mostafa Ezzat
 
 📧 Email: your_email@example.com
 🔗 GitHub: https://github.com/Mostafa-Ezzat11
+
 
