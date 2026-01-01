@@ -67,59 +67,65 @@ ATM-System-Java/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ATM-System-Java.git
+git clone https://github.com/Mostafa-Ezzat11/ATM-System-Java.git
 2️⃣ Open the project
+Open the project using any Java IDE such as:
 
-- Open the project using:
+NetBeans
 
-- NetBeans
+IntelliJ IDEA
 
-- IntelliJ IDEA
+VS Code
 
-- VS Code
+3️⃣ Project Structure
+css
+Copy code
+ATM-System-Java/
+│
+├── src/
+│   ├── data/
+│   │   └── accounts.txt
+│   │
+│   ├── model/
+│   │   ├── Account.java
+│   │   └── Customer.java
+│   │
+│   ├── service/
+│   │   ├── Bank.java
+│   │   └── ATM.java
+│   │
+│   └── Main.java
+│
+└── README.md
+4️⃣ Run the application
+Run the following file:
 
-3️⃣ Run the program
-Run:
+css
+Copy code
 Main.java
+5️⃣ Program usage
+Once the program starts, you can:
 
+Login using an existing account
 
-🧪 Program Flow
-User chooses:
-
-Login
-
-Create new account
-
-System validates credentials
-
-User can:
+Create a new account
 
 Deposit money
 
 Withdraw money
 
-Check balance
+Check account balance
 
-Data is saved automatically
+All data is saved automatically in:
 
-🔒 Data Storage
-All data is stored in:
-
+bash
+Copy code
 src/data/accounts.txt
-Format:
-
-accountNumber,pin,balance
-🔧 Future Improvements
-Encrypt PINs
-
-Add transaction history
-
-Add admin panel
-
-Convert to GUI application
-
-Connect to a real database
-
+✅ Example Login
+yaml
+Copy code
+Account Number: 1001
+PIN: 1111
 👨‍💻 Author
 Mostafa Ezzat
 🎓 Computer Science Student
@@ -127,5 +133,7 @@ Mostafa Ezzat
 📧 Email: your_email@example.com
 🔗 GitHub: https://github.com/Mostafa-Ezzat11
 
+yaml
+Copy code
 
 
