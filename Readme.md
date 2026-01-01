@@ -30,25 +30,26 @@ This project simulates real ATM operations such as account creation, login, depo
 
 ## 📁 Project Structure
 
+```
 ATM-System-Java/
 │
 ├── src/
-│ ├── data/
-│ │ └── accounts.txt
-│ │
-│ ├── model/
-│ │ ├── Account.java
-│ │ └── Customer.java
-│ │
-│ ├── service/
-│ │ ├── Bank.java
-│ │ └── ATM.java
-│ │
-│ └── Main.java
+│   ├── data/
+│   │   └── accounts.txt
+│   │
+│   ├── model/
+│   │   ├── Account.java
+│   │   └── Customer.java
+│   │
+│   ├── service/
+│   │   ├── Bank.java
+│   │   └── ATM.java
+│   │
+│   └── Main.java
 │
 └── README.md
+```
 
----
 
 ## 🗂 Sample Accounts
 
@@ -125,5 +126,6 @@ Mostafa Ezzat
 
 📧 Email: your_email@example.com
 🔗 GitHub: https://github.com/Mostafa-Ezzat11
+
 
 
