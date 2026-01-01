@@ -125,8 +125,6 @@ All data is saved automatically in:
 
 src/data/accounts.txt
 ✅ Example Login
-yaml
-Copy code
 Account Number: 1001
 PIN: 1111
 ```
@@ -138,5 +136,6 @@ Mostafa Ezzat
 
 📧 Email: mostafa.ezzatx@gmail.com
 🔗 GitHub: https://github.com/Mostafa-Ezzat11
+
 
 
